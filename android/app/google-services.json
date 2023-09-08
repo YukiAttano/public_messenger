@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328158827727",
+    "project_id": "messenger-3e6de",
+    "storage_bucket": "messenger-3e6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328158827727:android:4a4c9f54b602dc313153ba",
+        "android_client_info": {
+          "package_name": "attano.yukiteru.messenger.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328158827727-9irpfebkr2qj7997q3eh53ca9mt0re5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLA4yGLAKXrIAosoAxiODCUwm8fKXky_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328158827727-9irpfebkr2qj7997q3eh53ca9mt0re5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
